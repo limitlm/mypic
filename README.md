@@ -1,2 +1,2 @@
-# mypic
+# MyPic
 PicGo图床
