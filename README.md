@@ -1,2 +1,2 @@
 # MyPic
-PicGo图床
+博客图床
